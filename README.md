@@ -4,5 +4,5 @@
 </div>
 
 <div align="center">
-<img width="551" alt="Group 8" src="https://user-images.githubusercontent.com/108080130/177006319-beced063-0d47-4706-8026-5d62c686065b.png">
+<img width="551" alt="Group 8" src="https://user-images.githubusercontent.com/108080130/177006707-3b0f1857-a192-4086-b6ab-e17dec31efb8.png">
 </div>
